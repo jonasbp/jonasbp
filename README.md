@@ -1,5 +1,6 @@
-### Hello! 👋
-19 years | Programming | Technology | iOT | 3D Printer | Serigraphy | Python | Art
+### Jonas Bonfá Pelegrina
+19 years - | Technology | iOT | 3D Printer | Serigraphy | Python | Art
+
 <!--
 **jonasbp/jonasbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
