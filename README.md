@@ -1,18 +1,32 @@
 ### Jonas Bonfá Pelegrina
 jonasbp.com </br>
-22 years | Technology | iOT | 3D Printer | Serigraphy | Python | Art
+23 years | Technology | iOT | 3D Printer | Serigraphy | Python | Art
 
-<!--
-**jonasbp/jonasbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Projetos:
 
-Here are some ideas to get you started:
+Desenvolvimento para meios de pagamento:
+- Terminais Android Smart Adquirentes: Stone,Getnet,Cielo
+- Desenvolvimento Android Kotlin para Hardware de meio de pagamento: SUNMI
+- API PIX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvimento em Python:
+- APIs Rest
+- Autenticação (Auth0)
+- Flask
+- Django
+
+Cloud:
+- AWS (Lambda,DynamoDb,API Gateway,Cognito,Cloudwatch,Lightsail)
+- AZURE (App Service)
+- GCP (Firebase, Firestore, Functions)
+- DigitalOcean,Linode (Máquinas virtuais)
+
+IOT:
+- Raspberry (Pi,Pi PICO,Pi Zero)
+- Familia ESP (ESP32,ESP8266)
+- Arduino
+
+Impressão 3D:
+- Fusion360
+- Cura
+- Realização de projetos em FABLAB/Cultura Maker.
