@@ -1,6 +1,6 @@
 ### Jonas Bonfá Pelegrina
 jonasbp.com </br>
-23 years | Technology | iOT | 3D Printer | Serigraphy | Python | Art
+24 years | Technology | iOT | 3D Printer | Serigraphy | Python | Art
 
 Projetos:
 
